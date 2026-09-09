@@ -1,0 +1,17 @@
+# Top-level directories not included in the repository
+Analysis/
+Article/
+Petkova/
+Python/
+Results/
+SKIRT/
+
+# Compiled files
+*.o
+Code/Vox
+Code/CalculateCumulativeKernel
+
+# macOS metadata
+.DS_Store
+._*
+
